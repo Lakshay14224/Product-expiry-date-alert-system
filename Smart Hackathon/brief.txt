@@ -1,0 +1,18 @@
+Product expiry date alert system
+
+Annually 2-5% (Approx) of the total population consume expired medicines.
+Out of which many of them pass through serious problems.This is done by the retailers to sell their expired inventory
+because of their negligence they do not remember to return the expired drugs on time.
+In the app, the user needs to manually enter the product name’s, purchase date’s, expiration date’s, and it generates 
+reminders several days before the expiration date.
+However, this manual entry of each purchased product’s name and expiration date are tiresome, time-consuming, and not efficient.
+The app in  attempts to develop an easier way for entering the product information by only scanning the barcode of the 
+product using the smartphone’s camera. 
+When a product barcode is scanned, the app gets the product name,manufacturing date,expiry date  and its unit price from the store's database and 
+displays them in a list box.
+After all this we will get a notification or pop up in the app which will remind the user about medicine expiry 
+RESULT:
+
+ A prototype of the proposed smart expiry system as shown is to be developed.
+ In the proposed system, the expiry date is scanned using barcode.
+ And user will be reminded of expiry through notification.
